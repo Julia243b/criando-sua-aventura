@@ -1,0 +1,45 @@
+
+body {
+    background-color: #fff1a1;
+    color: rgb(37, 31, 1);
+    font-family: "Luckiest Guy", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0
+}
+button{
+    background-color: #fff1a1;
+    color: rgb(37, 31, 1)
+    font-family "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: nome;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
